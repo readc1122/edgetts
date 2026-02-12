@@ -2,7 +2,7 @@
 
 ## 說明
 
-本系統由設備發音的localvoice.html可下載原始碼直接放置於網站使用，Ge4mini api key請置換成自行申請的才能使用。
+本系統由設備發音的localvoice.html可下載原始碼直接放置於網站使用，Gemini api key請置換成自行申請的才能使用。
 
 ## 使用
 
